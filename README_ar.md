@@ -63,12 +63,7 @@
 
 ## تنزيل
 
-تتوفر الملفات التنفيذية الجاهزة للاستخدام من خلال GitHub Releases.
-> حاليًا لأنظمة MacOS فقط
-
-| النظام | البنية | تنزيل |
-|----------|--------------|----------|
-| **macOS** | شامل (Intel / Apple Silicon) | [تنزيل .dmg](https://github.com/WangJinxin-flab/RSS-Reader/releases) |
+تتوفر الملفات التنفيذية الجاهزة للاستخدام من خلال [GitHub Releases](https://github.com/WangJinxin-flab/RSS-Reader/releases).
 
 > [!TIP]
 > **التحديث**

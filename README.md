@@ -63,12 +63,7 @@ In a world of subscription services and cloud syncing, **RSS Reader** takes a di
 
 ## Download
 
-Ready-to-use binaries are available via GitHub Releases.
-> only for MacOS for now
-
-| Platform | Architecture | Download |
-|----------|--------------|----------|
-| **macOS** | Universal (Intel / Apple Silicon) | [Download .dmg](https://github.com/WangJinxin-flab/RSS-Reader/releases) |
+Ready-to-use binaries are available via [GitHub Releases](https://github.com/WangJinxin-flab/RSS-Reader/releases).
 
 > [!TIP]
 > **Updating**

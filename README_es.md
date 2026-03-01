@@ -63,12 +63,7 @@ En un mundo de servicios de suscripción y sincronización en la nube, **RSS Rea
 
 ## Descargar
 
-Los binarios listos para usar están disponibles a través de GitHub Releases.
-> Solo para MacOS por ahora
-
-| Plataforma | Arquitectura | Descargar |
-|----------|--------------|----------|
-| **macOS** | Universal (Intel / Apple Silicon) | [Descargar .dmg](https://github.com/WangJinxin-flab/RSS-Reader/releases) |
+Los binarios listos para usar están disponibles a través de [GitHub Releases](https://github.com/WangJinxin-flab/RSS-Reader/releases).
 
 > [!TIP]
 > **Actualización**

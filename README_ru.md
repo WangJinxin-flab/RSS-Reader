@@ -63,12 +63,7 @@
 
 ## Скачать
 
-Готовые к использованию бинарные файлы доступны через GitHub Releases.
-> В настоящее время только для MacOS
-
-| Платформа | Архитектура | Скачать |
-|----------|--------------|----------|
-| **macOS** | Universal (Intel / Apple Silicon) | [Скачать .dmg](https://github.com/WangJinxin-flab/RSS-Reader/releases) |
+Готовые к использованию бинарные файлы доступны через [GitHub Releases](https://github.com/WangJinxin-flab/RSS-Reader/releases).
 
 > [!TIP]
 > **Обновление**

@@ -63,12 +63,7 @@ Dans un monde où les services par abonnement et la synchronisation sur le cloud
 
 ## Télécharger
 
-Des binaires prêts à l'emploi sont disponibles via GitHub Releases.
-> Uniquement pour MacOS pour le moment
-
-| Plateforme | Architecture | Télécharger |
-|----------|--------------|----------|
-| **macOS** | Universel (Intel / Apple Silicon) | [Télécharger .dmg](https://github.com/WangJinxin-flab/RSS-Reader/releases) |
+Des binaires prêts à l'emploi sont disponibles via [GitHub Releases](https://github.com/WangJinxin-flab/RSS-Reader/releases).
 
 > [!TIP]
 > **Mise à jour**

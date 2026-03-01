@@ -63,12 +63,7 @@
 
 ## 下载
 
-可以通过 GitHub Releases 获取即用型二进制文件。
-> 目前仅支持 MacOS
-
-| 平台 | 架构 | 下载 |
-|----------|--------------|----------|
-| **macOS** | 通用 (Intel / Apple Silicon) | [下载 .dmg](https://github.com/WangJinxin-flab/RSS-Reader/releases) |
+可以通过 [GitHub Releases](https://github.com/WangJinxin-flab/RSS-Reader/releases) 获取即用型二进制文件。
 
 > [!TIP]
 > **更新**
