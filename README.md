@@ -1,3 +1,12 @@
+<div align="right">
+  <strong>English</strong> |
+  <a href="README_zh.md">简体中文</a> |
+  <a href="README_ru.md">Русский</a> |
+  <a href="README_es.md">Español</a> |
+  <a href="README_fr.md">Français</a> |
+  <a href="README_ar.md">العربية</a>
+</div>
+
 <p align="center">
   <img src="icon.svg" width="128" height="128" alt="RSS Reader Logo">
 </p>
