@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username/rss-reader/releases"><img src="https://img.shields.io/github/v/release/your-username/rss-reader?color=blue&label=Download" alt="Releases"></a>
+  <a href="https://github.com/WangJinxin-flab/RSS-Reader/releases"><img src="https://img.shields.io/github/v/release/WangJinxin-flab/RSS-Reader?color=blue&label=Download" alt="Releases"></a>
   <img src="https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Linux-lightgrey" alt="Platforms">
   <a href="https://tauri.app/"><img src="https://img.shields.io/badge/Built_with-Tauri_2.0-24C8DB?logo=tauri&logoColor=white" alt="Tauri"></a>
 </p>
@@ -24,12 +24,8 @@
 
 ---
 
-> [!NOTE]
-> **Screenshot Placeholder**
-> 
-> Replace this section with an actual screenshot or GIF of your application to give users a quick visual preview.
-> 
-> `<img src="docs/screenshot.png" alt="App Preview" width="800">`
+> **Screenshot**
+> `<img src="imgs/screenshot.png" alt="App Preview" width="800">`
 
 ## Why RSS Reader?
 
