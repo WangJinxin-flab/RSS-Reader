@@ -1,0 +1,6 @@
+export { default as GeneralSettings } from './GeneralSettings'
+export { default as AppearanceSettings } from './AppearanceSettings'
+export { default as ShortcutSettings } from './ShortcutSettings'
+export { default as AISettings } from './AISettings'
+export { default as AutomationSettings } from './AutomationSettings'
+export { default as AboutSettings } from './AboutSettings'
