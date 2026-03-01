@@ -24,8 +24,8 @@
 
 ---
 
-> **Screenshot**
-> `<img src="imgs/screenshot.png" alt="App Preview" width="800">`
+**Screenshot**
+`<img src="imgs/screenshot.png" alt="App Preview" width="800">`
 
 ## Why RSS Reader?
 
